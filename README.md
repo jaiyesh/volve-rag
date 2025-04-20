@@ -2,6 +2,8 @@
 
 A Retrieval Augmented Generation (RAG) system designed specifically for petroleum engineering reports. PetroRAG processes PDF reports, breaks them into manageable segments, and provides a conversational interface for querying information from these documents.
 
+![PetroRAG Interface](volverag.png)
+
 ## Features
 
 - PDF document processing and text extraction
